@@ -2,11 +2,11 @@
 Using machine learning to classify different bearing damage situation.
 ## Input
 * Vibration and ratation signals:
-* <img src = "https://github.com/NTU-Chiu/ML_Projects/assets/91785016/3233511b-c8d7-4de5-9fd1-b64cf437f3e4.png" width = "250 height = "250">
+* <img src = "https://github.com/NTU-Chiu/ML_Projects/assets/91785016/3233511b-c8d7-4de5-9fd1-b64cf437f3e4.png" width = "250" height = "250">
 
 ## Output
 * Bearing damage situation:
-  ![image](https://github.com/NTU-Chiu/ML_Projects/assets/91785016/b50ab5ea-1e15-41ed-9037-cb3258267bda.png)
+* <img src = "https://github.com/NTU-Chiu/ML_Projects/assets/91785016/b50ab5ea-1e15-41ed-9037-cb3258267bda.png"  width = "250" height = "250">
 
 ## Results
 * 100 % accuracy
