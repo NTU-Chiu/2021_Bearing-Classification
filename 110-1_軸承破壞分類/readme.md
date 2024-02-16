@@ -2,7 +2,7 @@
 Using machine learning to classify different bearing damage situation.
 ## Input
 * Vibration and ratation signals:
-  ![image](https://github.com/NTU-Chiu/ML_Projects/assets/91785016/3233511b-c8d7-4de5-9fd1-b64cf437f3e4 =250x250)
+  ![image](https://github.com/NTU-Chiu/ML_Projects/assets/91785016/3233511b-c8d7-4de5-9fd1-b64cf437f3e4 | width=100)
 
 ## Output
 * Bearing damage situation:
@@ -13,7 +13,7 @@ Using machine learning to classify different bearing damage situation.
 ## Technique
 * Preprocessing:
   Using Fast Fourier Transform to transform the time domain signals to frequency domain signals.
-  ![image](https://github.com/NTU-Chiu/ML_Projects/assets/91785016/80595607-f10b-4223-982d-ab32cbb9edb7 =250x250)
+  ![image](https://github.com/NTU-Chiu/ML_Projects/assets/91785016/80595607-f10b-4223-982d-ab32cbb9edb | width=100)
 
 * Model:
   Using 1D CNN to extract fearures of signals.
