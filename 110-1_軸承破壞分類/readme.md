@@ -21,6 +21,7 @@ Using machine learning to classify different bearing damage situation.
 
 * Model:
   Using 1D CNN to extract fearures of signals.
+  ![image](https://github.com/NTU-Chiu/ML_Projects/assets/91785016/a4da5184-2b65-489c-a277-58e3632a534b)
 
 # Reference:
 * This project is the final project of diginal signal processing class at NTU.
