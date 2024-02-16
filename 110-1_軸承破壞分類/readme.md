@@ -8,9 +8,8 @@ Using machine learning to classify different bearing damage situation.
 
 ## Output
 * Bearing damage situation:
-* Class 0: Healthy bearing
-* Class 1: Outer bearing damage
-* Class 2: Inner bearing damage
+  ![image](https://github.com/NTU-Chiu/ML_Projects/assets/91785016/b50ab5ea-1e15-41ed-9037-cb3258267bda)
+
 ## Results
 * 100 % accuracy
 ## Technique
