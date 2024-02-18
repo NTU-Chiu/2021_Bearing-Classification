@@ -1,5 +1,6 @@
-# Process
+# 使用CNN模型分類損壞&健康的軸承
 * Using machine learning to classify different bearing damage situation. <br />
+## Process
   <img src = "https://github.com/NTU-Chiu/ML_Projects/assets/91785016/cc796268-6194-4aae-b341-00f6b5a72d49">
 
 ## Results
