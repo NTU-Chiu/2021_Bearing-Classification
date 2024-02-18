@@ -1,15 +1,10 @@
-# What the project does?
-Using machine learning to classify different bearing damage situation.
-## Input
-* Vibration and ratation signals: <br />
-<img src = "https://github.com/NTU-Chiu/ML_Projects/assets/91785016/3233511b-c8d7-4de5-9fd1-b64cf437f3e4.png" width = "250" height = "250">
-
-## Output
-* Bearing damage situation:  <br />
-<img src = "https://github.com/NTU-Chiu/ML_Projects/assets/91785016/b50ab5ea-1e15-41ed-9037-cb3258267bda.png"  width = "750" height = "250">
+# Process
+* Using machine learning to classify different bearing damage situation. <br />
+<img src = "https://github.com/NTU-Chiu/ML_Projects/assets/91785016/a9239f1e-fb66-4034-af48-a1f1443e4988" width = "900" height = "250">
 
 ## Results
-* 100 % accuracy
+* 100 % accuracy (in 600 testing samples)
+* 
 ## Technique
 * Preprocessing:
   Using Fast Fourier Transform to transform the time domain signals to frequency domain signals. <br />
@@ -22,4 +17,3 @@ Using machine learning to classify different bearing damage situation.
 * This project is the final project of diginal signal processing class at NTU.
 * The dataset is private.
 * This code is referenced from the TA, Bo Han Kung.
-
