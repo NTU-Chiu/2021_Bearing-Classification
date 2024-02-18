@@ -1,6 +1,6 @@
 # Process
 * Using machine learning to classify different bearing damage situation. <br />
-  <img src = "https://github.com/NTU-Chiu/ML_Projects/assets/91785016/97529902-57ba-4105-ac93-b455b9482231">
+  <img src = "https://github.com/NTU-Chiu/ML_Projects/assets/91785016/cc796268-6194-4aae-b341-00f6b5a72d49">
 
 ## Results
 * 100 % accuracy (in 600 testing samples)
