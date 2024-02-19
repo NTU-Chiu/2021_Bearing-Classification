@@ -10,7 +10,7 @@
 
 ## Techinque
 ### Unet
-<img src = "https://github.com/NTU-Chiu/ML_Projects/assets/91785016/b56ed867-2e22-4e04-bace-517db6a6dee3.png" width = "600">< br/>
+<img src = "https://github.com/NTU-Chiu/ML_Projects/assets/91785016/b56ed867-2e22-4e04-bace-517db6a6dee3.png" width = "600">
 * Image from:
 * Ronneberger, O., Fischer, P., & Brox, T. (2015). U-net: Convolutional networks for biomedical image segmentation. In Medical Image Computing and Computer-Assisted Intervention–MICCAI 2015: 18th International Conference, Munich, Germany, October 5-9, 2015, Proceedings, Part III 18 (pp. 234-241). Springer International Publishing. < br/>
 
