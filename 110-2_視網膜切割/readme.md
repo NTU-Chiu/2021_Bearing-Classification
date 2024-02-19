@@ -2,16 +2,18 @@
 * Using Unet and VGG for retinal images vessel Tree segmentation
 
 ## Process
-![image](https://github.com/NTU-Chiu/ML_Projects/assets/91785016/24b3aaeb-6056-4c03-965a-7c125f60430f)
+<img src = "https://github.com/NTU-Chiu/ML_Projects/assets/91785016/3c756146-bf11-4c28-b3bd-d7e03369ebb3.png" width = "900" height = "250">
 
 ## Results
-![image](https://github.com/NTU-Chiu/ML_Projects/assets/91785016/27866b52-aca4-4082-b994-50ab781f51c0)
-![image](https://github.com/NTU-Chiu/ML_Projects/assets/91785016/93067e19-f6b8-41c6-82b9-b3b97f90c689)
+<img src = "https://github.com/NTU-Chiu/ML_Projects/assets/91785016/27866b52-aca4-4082-b994-50ab781f51c0.png" width = "600">
+<img src = "https://github.com/NTU-Chiu/ML_Projects/assets/91785016/93067e19-f6b8-41c6-82b9-b3b97f90c689.png" width = "600">
 
 ## Techinque
 ### Unet
-![image](https://github.com/NTU-Chiu/ML_Projects/assets/91785016/b56ed867-2e22-4e04-bace-517db6a6dee3)
-
+<img src = "https://github.com/NTU-Chiu/ML_Projects/assets/91785016/b56ed867-2e22-4e04-bace-517db6a6dee3.png" width = "600">
+Image from:
+Ronneberger, O., Fischer, P., & Brox, T. (2015). U-net: Convolutional networks for biomedical image segmentation. In Medical Image Computing and Computer-Assisted Intervention–MICCAI 2015: 18th International Conference, Munich, Germany, October 5-9, 2015, Proceedings, Part III 18 (pp. 234-241). Springer International Publishing.
 ### VGG
-* Improve the original VGG via interpolation
-![image](https://github.com/NTU-Chiu/ML_Projects/assets/91785016/86d717ad-255f-462f-bb43-f24589c3a684)
+* Improve the original VGG via adding interpolation layer.
+![image]()
+<img src = "https://github.com/NTU-Chiu/ML_Projects/assets/91785016/86d717ad-255f-462f-bb43-f24589c3a684.png" width = "600">
