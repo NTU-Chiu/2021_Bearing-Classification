@@ -1,6 +1,6 @@
 # This respository conatains 4 machine learning tasks
 1. Classify different bearing damage situation. <br />
-  <img src = "https://github.com/NTU-Chiu/ML_Projects/assets/91785016/cc796268-6194-4aae-b341-00f6b5a72d49">
+<img width = "800" alt="1_process" src = "https://github.com/NTU-Chiu/ML_Projects/assets/91785016/cc796268-6194-4aae-b341-00f6b5a72d49">
 
 2. Classify different flower patterns.
 
